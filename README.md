@@ -3,6 +3,13 @@
 
 **This project uses the TCP/IP socket video streaming implementation using the WIZnet W5100S-EVB-Pico board, ArduCam Mini 2MP Plus - SPI Camera Module and Raspoberry Pi 4 Model B.**
 
+## Project details
+https://www.hackster.io/innovation4x/zoom-like-virtual-background-using-arducam-w5100s-evb-pico-75d64b
+
+
+## Youtube
+https://youtu.be/BbjGE2fLHv0
+
 
 # References
 
